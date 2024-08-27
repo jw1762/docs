@@ -39,7 +39,8 @@ Any total brig time that adds up to above 10 minutes will be shortened to meet t
 If the sentence exceeds or is exactly 20 minutes, you may perma the person.
 ```
 
-
+**Contraband:** Certian items are considered contraband, and most are labelled as such. However, some items are contraband without proper authorization. 
+These items are: TBD
 
 ## Crimes
 ### I Degree
