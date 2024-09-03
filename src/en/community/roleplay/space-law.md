@@ -32,7 +32,7 @@ A suspect can be forced to receive implant removal if there is strong reasonable
 **Trial Procedure:** Defense and Prosecution will both be given the opportunity to make short opening statements. Prosecution should declare their intended sentence at this time. Any evidence related to the case should be presented by Prosecution. Defense will attempt to disqualify certain pieces of evidence if they are able. Defense and Prosecution will both be allowed to call 3 witnesses, and ask each witness up to 3 questions. Objections may be made by either side during witness questions and testimony. The case will then be concluded by the presiding Judge with a guilty or innocent judgement. If guilty, the Judge will either enact the Prosecutions sentence, or modify it to a lesser degree if the Defense made good arguments.
 
 ## Sentencing
-All sentencing is to be handled by the Warden, if no Warden is available the HoS is to take over that duty, if there's no HoS it falls onto the highest ranking command member.
+All sentencing is to be handled by the Warden for degree III and lower crimes, if no Warden is available the HoS is to take over that duty, if there's no HoS it falls onto the highest ranking command member. The Warden may sentence degree IV/V crimes as well, but only if the accusesed criminal does not request a lawyer and trial.
 
 Use common sense and humanity when issuing punishments. You should not always seek out the highest punishment you can, you don't have to always give the maximum time or always look to demote someone. Always take in account the severity and only charge for what is needed for someone to learn their lesson.
 
